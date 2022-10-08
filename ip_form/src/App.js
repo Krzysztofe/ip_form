@@ -9,7 +9,7 @@ function App() {
         belong: ""
     })
 
-    const [dataObject, setDataObject] = useState('')
+    const [dataObject, setDataObject] = useState({})
 
 
     const handleChange = (e) => {
@@ -204,7 +204,7 @@ function App() {
 
             <label>cały etat
                 <input type='radio' name='condition'
-                       value='ceły etat'
+                       value='cały etat'
                        checked={member.condition === 'cały etat'}
                        onChange={handleChange}
                 />
