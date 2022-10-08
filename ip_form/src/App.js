@@ -259,7 +259,7 @@ function App() {
                 />
             </label>
 
-            <button style={{alignSelf: "flex-end"}}> zatwierdż</button>
+            <button style={{marginTop: 10}}> zatwierdż</button>
         </form>
     );
 }
