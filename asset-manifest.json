@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ip_form/static/js/main.20d0b9cb.js",
+    "index.html": "/ip_form/index.html",
+    "main.20d0b9cb.js.map": "/ip_form/static/js/main.20d0b9cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.20d0b9cb.js"
+  ]
+}
